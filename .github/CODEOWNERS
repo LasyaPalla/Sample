@@ -1,0 +1,20 @@
+# This is a sample CODEOWNERS file
+
+# To make the default owner for everything in the repo. 
+* @LasyaPalla
+
+# Specific Directories
+/docs/ @LasyaPalla
+/src/ @LasyaPalla
+/tests/ @LasyaPalla
+
+# Specific files
+README.md @LasyaPalla
+LICENSE @LasyaPalla
+
+# Specific filetypes
+*.py @LasyaPalla
+*.js @LasyaPalla
+
+# Specifying the team-name
+# /docs/ @org/team-name
