@@ -1,6 +1,0 @@
-print("Enter the input number:")
-a = input()
-print("user entered number",a)
-print("Hello World")
-b = input()
-print(a+b)
