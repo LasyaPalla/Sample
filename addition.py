@@ -1,3 +1,3 @@
-int a = 5
-int b = 6
-print(a+b)
+x = 5
+y = 10
+print(x + y)
